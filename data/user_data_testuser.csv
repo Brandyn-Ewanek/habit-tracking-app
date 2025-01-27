@@ -1,0 +1,2 @@
+username,DOB,city,current_habits,measured_in,period
+testuser,2000-01-01,Test City,"reading,exercise,drawing,meditation","{""reading"": ""pages"", ""exercise"": ""minutes"", ""drawing"": ""minutes"", ""meditation"": ""minutes""}","{""reading"": ""daily"", ""exercise"": ""weekly"", ""drawing"": ""daily"", ""meditation"": ""weekly""}"

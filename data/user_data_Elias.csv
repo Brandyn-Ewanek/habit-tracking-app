@@ -1,0 +1,2 @@
+username,DOB,city,current_habits,measured_in,period
+Elias,9/15/1982,Potsdam ,"Weightlifting,Running,Swimming,Basketball,Pushups","{""weightlifting"": ""reps"", ""running"": ""KMs"", ""walking"":""steps"", ""basketball"":""hours"", ""pushups"":""pushups"", ""situps"":""situps""}","{""weightlifting"": ""daily"", ""running"": ""daily"", ""swimming"":""weekly"", ""basketball"":""weekly"", ""pushups"":""daily"", ""situps"":""daily""}"
